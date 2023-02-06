@@ -1,4 +1,4 @@
 # practice-repo
 ENVS 110A practice repository
 
-Hello Cat
+Hello Dog!
